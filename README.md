@@ -48,57 +48,66 @@ Concepts: Object-Oriented Programming (OOPS), Abstraction, Encapsulation, Inheri
 
 # Features:
 ✔ Check account balance
+
 ✔ Deposit money
+
 ✔ Withdraw money (with validation & limits)
+
 ✔ View account details
+
 ✔ PIN verification for security
+
 ✔ Transaction history tracking
+
 ✔ Transaction count
+
 ✔ Exit confirmation
+
 ✔ Menu-driven interface
 
 # Security Features:
 ✔ PIN authentication before accessing ATM
+
 ✔ Encapsulation of sensitive data
+
 ✔ Withdrawal validation
+
 ✔ Maximum withdrawal limit
 
 # How to Run the Project:
 
 ---> Step 1: Install Python 3. Download from https://www.python.org/downloads/
+
 ---> Step 2: Download this file
+
 ---> Step 3: Navigate the folder
+
 ---> Step 4: Run the code python (filename).py
-
-# Sample Output
-
-WELCOME TO ABC BANK ATM
-
-Enter Account Holder Name: Rahul
-Enter Account Number: 12345
-Enter Initial Balance: 1000
-Set a 4-digit PIN: ****
-
-Enter PIN to access ATM: ****
-
-Deposit Successful!
-Updated Balance: ₹1500
 
 # Future Enhancements
 
 --> Add database support (MySQL / SQLite)
+
 --> Support for multiple user accounts
+
 --> GUI-based application using Tkinter
+
 --> Web-based version using Flask/Django
+
 --> Detailed transaction logs with date & time
+
 --> Integration with real banking APIs
+
 --> Advanced error handling & logging
 
 # Learning Outcomes
 
 --> Strong understanding of Object-Oriented Programming
+
 --> Hands-on experience with real-world system modeling
+
 --> Improved logical thinking and Python skills
+
 --> Better understanding of secure data handling
 
 # Conclusion
