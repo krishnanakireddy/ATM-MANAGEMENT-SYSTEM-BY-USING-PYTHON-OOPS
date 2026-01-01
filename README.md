@@ -8,8 +8,11 @@ The main goal of this project is to understand how real-world banking systems ca
 # Key Objectives
 
 --> Understand core OOPS concepts through a practical project
+
 --> Build a menu-driven application using loops
+
 --> Implement secure data handling using encapsulation
+
 --> Simulate real ATM functionalities in a simple way
 
 # Technologies Used
