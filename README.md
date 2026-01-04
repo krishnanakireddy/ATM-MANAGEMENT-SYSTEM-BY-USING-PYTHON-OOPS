@@ -47,6 +47,7 @@ Concepts: Object-Oriented Programming (OOPS), Abstraction, Encapsulation, Inheri
       Static Method: Validate transaction amounts
 
 # Features:
+
 ✔ Check account balance
 
 ✔ Deposit money
@@ -73,6 +74,7 @@ Concepts: Object-Oriented Programming (OOPS), Abstraction, Encapsulation, Inheri
 ✔ Withdrawal validation
 
 ✔ Maximum withdrawal limit
+
 
 # How to Run the Project:
 
